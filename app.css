@@ -65,3 +65,13 @@ nav ul li a:hover {
   width: 220px;
   cursor: pointer;
 }
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
